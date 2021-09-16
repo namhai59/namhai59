@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @namhai59
+- 👋 Hi, I’m minmon.
 - 👀 I’m interested in Python and music.
 - 🌱 I’m currently learning Python and networking (Cisco & Juniper).
 - 💞️ I’m looking to collaborate on Python, networking, cloud.
